@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="player1color" format="reference"/>
+    <attr name="player2color" format="reference"/>
+    <attr name="primaryTextColor" format="reference"/>
+
+</resources>
