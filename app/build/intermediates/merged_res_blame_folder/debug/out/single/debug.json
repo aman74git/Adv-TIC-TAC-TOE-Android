@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_loser.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\loser.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_two.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_two.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_x.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_14.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_choose_bot.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\activity_choose_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_two.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_two.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_6.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_13.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_draw.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\draw.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_8.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game_play.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\activity_game_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\edit_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_12.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_13.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_7.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_msg_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\msg_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_7.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_draw.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\draw.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_random_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\random_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_title_image.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\title_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_8.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground_2.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_12.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_18.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_6.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_difficult_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\difficult_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_easy_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\easy_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_medium_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\medium_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_box_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\edit_box_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_o.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_replay.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\replay.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_3.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_15.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_15.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_send.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_easy_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\easy_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_rotated_o_bg.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\rotated_o_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_5.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_winner.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\winner.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_player_1_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\player_1_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat_view_tv_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\chat_view_tv_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_selector_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_selector_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_difficult_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\difficult_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_9.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_enter_player_names.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\activity_enter_player_names.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_room_create.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\activity_room_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_test_layout.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\xml_activity_main_xml_constraintlayout5_scene.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\xml\\activity_main_xml_constraintlayout5_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_18.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar1_one.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar1_one.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_17.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_17.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_10.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_10.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_rotated_o_bg.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\rotated_o_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_medium_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\medium_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_rotated_x_bg.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\rotated_x_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\xml_activity_main_scene.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\xml\\activity_main_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_rotated_x_bg.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\rotated_x_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_game_chat.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\fragment_game_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_x.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar1_one.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar1_one.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_3.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_4.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_16.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_16.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_easy_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\easy_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_medium_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\medium_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_title_image.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\title_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_11.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn2bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\btn2bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn1bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\btn1bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_random_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\random_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_difficult_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\difficult_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_loser.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\loser.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_avatar_chooser.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\fragment_avatar_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_replay.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\replay.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_4.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\layout_recycler_view_chat_bubble.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\layout\\recycler_view_chat_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_9.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_5.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_avatar_14.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\avatar_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_17.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_17.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_winner.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\winner.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_avatar_selector_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v21\\avatar_selector_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_box_bg_two.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\edit_box_bg_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_avatar_11.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\avatar_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_player_2_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\player_2_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_random_bot.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable-v24\\random_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\build\\intermediates\\merged_res\\debug\\drawable_o.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\TicTacToeNew\\app\\src\\main\\res\\drawable\\o.png"
+    }
+]
